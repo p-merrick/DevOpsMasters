@@ -1,1 +1,1 @@
-this is a test had this been am actuall readme more information would follow!
+this is a test had this been an actuall readme more information would follow!
